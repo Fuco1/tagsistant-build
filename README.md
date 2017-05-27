@@ -2,6 +2,8 @@
 
 Build image for [tagsistant](https://github.com/StrumentiResistenti/Tagsistant/).
 
+This project uses [build-base](https://github.com/Fuco1/build-base) structure.
+
 # Usage
 
 ``` shell
