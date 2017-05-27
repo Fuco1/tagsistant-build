@@ -1,0 +1,3 @@
+[submodule "Tagsistant"]
+	path = Tagsistant
+	url = https://github.com/StrumentiResistenti/Tagsistant.git

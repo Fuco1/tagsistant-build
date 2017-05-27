@@ -1,0 +1,14 @@
+FROM fuco1/build-base:1.0
+
+RUN apt-get update && apt-get install -y \
+    libdbd-sqlite3 \
+    libextractor-dev \
+    libfuse-dev \
+    libglib2.0-dev \
+    libdbi-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY ./docker-build.sh /docker-build.sh
+
+ENTRYPOINT ["/bin/bash"]
+CMD ["/docker-build.sh"]
