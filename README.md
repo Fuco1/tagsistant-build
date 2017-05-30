@@ -7,7 +7,7 @@ This project uses [build-base](https://github.com/Fuco1/build-base) structure.
 # Usage
 
 ``` shell
-git clone --recursive git@github.com:Fuco1/tagsistant-build.git
+git clone --recursive https://github.com/Fuco1/tagsistant-build.git
 cd tagsistant-build
 ./build
 sudo ./install
