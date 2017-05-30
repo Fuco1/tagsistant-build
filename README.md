@@ -1,4 +1,4 @@
-# tagsistant-build
+# tagsistant-build [![Build Status](https://semaphoreci.com/api/v1/github-fuco1/tagsistant-build/branches/master/shields_badge.svg)](https://semaphoreci.com/github-fuco1/tagsistant-build)
 
 Build image for [tagsistant](https://github.com/StrumentiResistenti/Tagsistant/).
 
